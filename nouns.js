@@ -260,6 +260,7 @@ const nouns = ["menace",
 "Renaissance man",
 "dude",
 "chap",
-"fellow",
+"fellow"
 ]
+
 export default nouns;
