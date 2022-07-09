@@ -243,7 +243,7 @@ const nouns = ["menace",
 "oracle",
 "leprechaun",
 "werewolf",
-"detective"
+"detective",
 "historian",
 "myth",
 "twink",
