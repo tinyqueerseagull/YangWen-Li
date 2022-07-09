@@ -284,7 +284,6 @@ const adjectives = ["public",
 "finnicky",
 "Shakespearean",
 "bicentennial",
-"groovey"
+"groovey",
 ]
-
 export default adjectives;
